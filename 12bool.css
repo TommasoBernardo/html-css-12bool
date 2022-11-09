@@ -9,17 +9,6 @@
     color: white;
 }
 
-[class*="nested-col-"]{
-    background-color:#01e165;
-    flex-grow: 0;
-    flex-shrink: 0;
-    line-height: 2rem;
-    height: 2rem;
-    line-height: 2rem;
-    text-align: center;
-    color: white;
-    
-}
 
 .nested-col-2{
     flex-basis: calc((100% / 12) * 2);

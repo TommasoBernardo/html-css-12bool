@@ -21,3 +21,14 @@ main{
     flex-direction: row;
     flex-wrap: wrap;
 }
+
+.white{
+    width: 100%;
+    height: 20px;
+    background-color: white;
+}
+
+.color{
+    background-color: #01e165;
+    color: white;
+}
